@@ -64,7 +64,7 @@ function Friend({friend}){
 
         {friend.balance===0 && (
           <p className="">
-            You and your friend {friend.name} are even?!?
+            You and your friend {friend.name} are even?!?????
           </p>
         )}
 
