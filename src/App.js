@@ -25,10 +25,12 @@ export default function App() {
     <div className="sidebar">
       <FriendList/>
       <FormAddFriend/>
+      
     </div>
     </div>
   )
 }
+// jh
 
 function FriendList()
 { 
