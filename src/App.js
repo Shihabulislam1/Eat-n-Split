@@ -30,7 +30,7 @@ export default function App() {
     </div>
   )
 }
-// jh
+
 
 function FriendList()
 { 
