@@ -64,7 +64,7 @@ function Friend({friend}){
 
         {friend.balance===0 && (
           <p className="">
-            You and your friend {friend.name} are even\. No need to pay each other
+            You and your friend {friend.name} are even\. No need to pay each
           </p>
         )}
 
